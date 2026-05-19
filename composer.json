@@ -1,0 +1,10 @@
+{
+    "name": "student/php-mini-bookstore-router",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
