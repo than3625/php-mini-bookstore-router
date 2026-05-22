@@ -37,7 +37,7 @@ $loginSuccess = ($_GET['login'] ?? '') === 'success';
             <section class="grid">
                 <div class="card">
                     <h3>HTML Response</h3>
-                    <p>Visit <code>/</code> or <code>/products</code>.</p>
+                    <p>Visit <code>/</code> or <code>/books</code>.</p>
                 </div>
 
                 <div class="card">
